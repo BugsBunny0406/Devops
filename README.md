@@ -1,8 +1,20 @@
 # devops
 For Devops Training
-![Screenshot 2023-09-27 165745](https://github.com/BugsBunny0406/devops_training/assets/142735210/d138c151-5dc5-41cf-b297-afe100e4a41d)
-![Screenshot 2023-09-27 165309](https://github.com/BugsBunny0406/devops_training/assets/142735210/0b412bf8-7092-4949-ba3b-738dac26ed4e)
-![Screenshot 2023-09-27 165237](https://github.com/BugsBunny0406/devops_training/assets/142735210/57c144ce-7488-4b35-85f7-e7736d3eec73)
-![Screenshot 2023-09-27 165004](https://github.com/BugsBunny0406/devops_training/assets/142735210/f7d4ab3c-ed88-433c-a12c-6af8a9c7fc6f)
-![Screenshot 2023-09-27 164708](https://github.com/BugsBunny0406/devops_training/assets/142735210/a3548fc6-2fe9-4474-a968-ff94176d9ca9)
-![Screenshot 2023-09-27 164608](https://github.com/BugsBunny0406/devops_training/assets/142735210/2f5f0e1e-dbf9-46f6-9125-2291b6244bf9)
+
+1. AWS Instances
+![Screenshot 2023-09-27 165004](https://github.com/BugsBunny0406/devops_training/assets/142735210/9f0b524b-0c04-4c41-bca4-ba8ec8389bcb)
+
+2. Successfully integrated Maven
+![Screenshot 2023-09-27 165237](https://github.com/BugsBunny0406/devops_training/assets/142735210/82779793-fc3c-4f51-9a4b-697510dfd2ed)
+
+3. Nexus Integration using Pipeline
+![Screenshot 2023-09-27 164708](https://github.com/BugsBunny0406/devops_training/assets/142735210/d90f379c-d5cc-49f3-b5f5-cf5e3a23ba74)
+
+4. Tomcat Integration
+![Screenshot 2023-09-27 165309](https://github.com/BugsBunny0406/devops_training/assets/142735210/b55bb6a1-0ca9-4319-be6d-73c19acc6efb)
+
+Tomcat Server
+![Screenshot 2023-09-27 165745](https://github.com/BugsBunny0406/devops_training/assets/142735210/6556a5a8-8732-445e-b058-1bc7d94255df)
+
+Tomcat Webpage
+![Screenshot 2023-09-27 164608](https://github.com/BugsBunny0406/devops_training/assets/142735210/34d18631-6d88-49aa-9cb9-7493f2ec4d0e)
