@@ -13,5 +13,5 @@
 ![Screenshot 2023-09-29 191607](https://github.com/BugsBunny0406/devops_training/assets/142735210/beabf78b-7e3d-4844-8411-1e3f0764a9cc)
 ![Screenshot 2023-09-29 191536](https://github.com/BugsBunny0406/devops_training/assets/142735210/7f921429-b68a-4d28-a059-e703f94d1fc4)
 
---Created SSL certificate for the website 
+--Generated SSL certificate for the website 
 ![Screenshot 2023-09-29 191412](https://github.com/BugsBunny0406/devops_training/assets/142735210/6eb45efc-b897-479e-8fe4-e80eb946f56d)
